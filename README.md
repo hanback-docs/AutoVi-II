@@ -1,5 +1,5 @@
 # AutoVi-II
-![](https://github.com/hanback-docs/Serbot-G-Docs/blob/main/SerBot-G.png)
+![](https://github.com/hanback-docs/AutoVi-II/blob/main/AutoVi%20II.png)
 
 ## Product Features
 - AI and IoT Convergence Practice Equipment based on Autonomous Driving Vehicle Platform
